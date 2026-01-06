@@ -1,0 +1,9 @@
+[user]
+	email = chandrakant2005turkar@gmail.com
+	name = Chandrakant6
+[credential]
+	helper = store
+[url "ssh://git@ssh.github.com:443/"]
+	insteadOf = ssh://git@github.com/
+[init]
+	defaultBranch = main
